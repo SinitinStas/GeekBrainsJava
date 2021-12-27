@@ -1,6 +1,6 @@
 package lesson1;
 
-import java.sql.SQLOutput;
+
 
 public class HomeWorkApp {
     public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class HomeWorkApp {
         printColor();
         compareNumbers();
     }
-    static void printThreeWords(){
+    public static void printThreeWords(){
         System.out.println("Orange");
         System.out.println("Banana");
         System.out.println("Apple");
